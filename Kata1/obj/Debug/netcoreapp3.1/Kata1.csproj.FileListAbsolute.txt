@@ -1,0 +1,11 @@
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.exe
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.deps.json
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.runtimeconfig.json
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.runtimeconfig.dev.json
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.dll
+C:\Tutos\C#\Kata1Solution\Kata1\bin\Debug\netcoreapp3.1\Kata1.pdb
+C:\Tutos\C#\Kata1Solution\Kata1\obj\Debug\netcoreapp3.1\Kata1.csprojAssemblyReference.cache
+C:\Tutos\C#\Kata1Solution\Kata1\obj\Debug\netcoreapp3.1\Kata1.AssemblyInfoInputs.cache
+C:\Tutos\C#\Kata1Solution\Kata1\obj\Debug\netcoreapp3.1\Kata1.AssemblyInfo.cs
+C:\Tutos\C#\Kata1Solution\Kata1\obj\Debug\netcoreapp3.1\Kata1.dll
+C:\Tutos\C#\Kata1Solution\Kata1\obj\Debug\netcoreapp3.1\Kata1.pdb
